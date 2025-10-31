@@ -31,7 +31,7 @@ A short paragraph explaining what the dashboard is about, what data it uses, and
 
 ## 🖼️ **Dashboard Preview**
 
-(Add screenshots here)
+(Add screenshots)
 
 Example:
 ![Dashboard](https://github.com/Suman-bot8927/Mobile-Sales-Dashboard/blob/main/Snapshot.png)
