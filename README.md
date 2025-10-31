@@ -1,6 +1,3 @@
-Here is a **clean, professional, GitHub-ready README structure** you can copy-paste and use for your Power BI project.
-
----
 
 # 📌 **Project Title – Power BI Dashboard (Your Project Name)**
 
@@ -37,7 +34,7 @@ A short paragraph explaining what the dashboard is about, what data it uses, and
 (Add screenshots here)
 
 Example:
-![Dashboard](Images/dashboard.png)
+![Dashboard](https://github.com/Suman-bot8927/Mobile-Sales-Dashboard/blob/main/Snapshot.png)
 
 ---
 
