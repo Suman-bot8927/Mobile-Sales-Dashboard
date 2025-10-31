@@ -115,6 +115,3 @@ Brief description of dataset columns.
 * Add drill-through pages
 * Create summary report PDF
 * Automate refresh using Power BI Service
-
-
-✅ If you want, I can **fill in this entire structure with complete text** customized for your actual project.
